@@ -1,0 +1,22 @@
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\bin\Debug\net6.0-windows\C# - Bilgi Yarışması.exe
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\bin\Debug\net6.0-windows\C# - Bilgi Yarışması.deps.json
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\bin\Debug\net6.0-windows\C# - Bilgi Yarışması.runtimeconfig.json
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\bin\Debug\net6.0-windows\C# - Bilgi Yarışması.dll
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\bin\Debug\net6.0-windows\C# - Bilgi Yarışması.pdb
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.csproj.AssemblyReference.cache
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.Form1.resources
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.Properties.Resources.resources
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.AssemblyInfoInputs.cache
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.AssemblyInfo.cs
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.dll
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\refint\C# - Bilgi Yarışması.dll
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.pdb
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C# - Bilgi Yarışması.genruntimeconfig.cache
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\ref\C# - Bilgi Yarışması.dll
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.tarih1.resources
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.spor.resources
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.cografya.resources
+C:\Project\C# - Bilgi Yarışması\C# - Bilgi Yarışması\obj\Debug\net6.0-windows\C____Bilgi_Yarışması.mat.resources
